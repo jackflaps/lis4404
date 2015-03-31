@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+	<dc:title>Metadata Architectures</dc:title>
+	<dcterms:alternative>LIS 4404</dcterms:alternative>
+	<dc:creator>Kevin Clair</dc:creator>
+	<dc:subject>metadata</dc:subject>
+	<dc:subject>libraries</dc:subject>
+	<dc:subject>archives</dc:subject>
+	<dc:subject source="lcsh">Cataloging</dc:subject>
+	<dc:description>LIS 4404, course on creating and managing metadata</dc:description>
+	<dc:publisher>University of Denver</dc:publisher>
+	<dc:contributors>University of Denver Library and Information Science Program</dc:contributors>
+	<dc:date>2015-03-31</dc:date>
+	<dcterms:created>2015-03-31</dcterms:created>
+	<dcterms:issued>2015-03-31</dcterms:issued>
+	<dc:type>text</dc:type>
+	<dc:format>txt</dc:format>
+	<dc:identifier>https://canvas.du.edu/courses/12096</dc:identifier>
+	<dc:source>Syllabus originally published on the Web, https://github.com/jackflaps/lis4404</dc:source>
+	<dc:language xml:lang="en">English</dc:language>
+	<dcterms:hasPart>https://github.com/jackflaps/lis4404/blob/master/lis%204404%20week%201.ppt</dcterms:hasPart>
+	<dcterms:isPartOf>http://morgridge.du.edu/programs/library-and-information-science/</dcterms:isPartOf>
+	<dc:coverage>Spring 2015</dc:coverage>
+	<dcterms:temporal>Spring 2015</dcterms:temporal>
+	<dc:rights>Use this however you want</dc:rights>
+</record>
