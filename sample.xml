@@ -16,11 +16,9 @@
 	<dc:type>text</dc:type>
 	<dc:format>txt</dc:format>
 	<dc:identifier>https://canvas.du.edu/courses/12096</dc:identifier>
-	<dc:source>Syllabus originally published on the Web, https://github.com/jackflaps/lis4404</dc:source>
-	<dc:language xml:lang="en">English</dc:language>
+	<dc:source>Syllabus originally published on the Web, https://github.com/jackflaps/lis4404</dc:source><dc:language xml:lang="en">English</dc:language>
 	<dcterms:hasPart>https://github.com/jackflaps/lis4404/blob/master/lis%204404%20week%201.ppt</dcterms:hasPart>
-	<dcterms:isPartOf>http://morgridge.du.edu/programs/library-and-information-science/</dcterms:isPartOf>
-	<dc:coverage>Spring 2015</dc:coverage>
+	<dcterms:isPartOf>http://morgridge.du.edu/programs/library-and-information-science/</dcterms:isPartOf><dc:coverage>Spring 2015</dc:coverage>
 	<dcterms:temporal>Spring 2015</dcterms:temporal>
 	<dc:rights>Use this however you want</dc:rights>
 </record>
