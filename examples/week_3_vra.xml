@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work id="w_36" source="Core 4 Sample Database (VCat)" refid="36">
+        <agentSet>
+            <display>Bronislava Nijinska (Russian dancer, 1891-1972); Claude Debussy (French composer, 1862-1918); Dydia Nelidova (Russian dancer, active ca. 1910-1913); Léon Bakst (Russian scenographer, 1866-1924); Pierre Monteux (French conductor, 1875-1964); Serge Diaghilev (Russian impresario, 1872-1929); Waslaw Nijinsky (Russian choreographer, ca. 1890-1950); Waslaw Nijinsky (Russian dancer, ca. 1890-1950)</display>
+            <notes/>
+            <agent>
+                <name vocab="ULAN" refid="500009524" type="personal">Bakst, Léon</name>
+                <dates type="life">
+                    <earliestDate>1866</earliestDate>
+                    <latestDate>1924</latestDate>
+                </dates>
+                <culture>Russian</culture>
+                <role>scenographer</role>
+            </agent>
+            <agent>
+                <name vocab="ULAN" refid="500078791" type="personal">Nijinsky, Waslaw</name>
+                <dates type="life">
+                    <earliestDate>1890</earliestDate>
+                    <latestDate>1950</latestDate>
+                </dates>
+                <culture>Russian</culture>
+                <role>choreographer</role>
+            </agent>
+            <agent>
+                <name vocab="ULAN" refid="500335877" type="personal">Debussy, Claude</name>
+                <dates type="life">
+                    <earliestDate>1862</earliestDate>
+                    <latestDate>1918</latestDate>
+                </dates>
+                <culture>French</culture>
+                <role>composer</role>
+            </agent>
+            <agent>
+                <name vocab="ULAN" refid="500078133" type="personal">Diaghilev, Serge</name>
+                <dates type="life">
+                    <earliestDate>1872</earliestDate>
+                    <latestDate>1929</latestDate>
+                </dates>
+                <culture>Russian</culture>
+                <role>impresario</role>
+            </agent>
+            <agent>
+                <name vocab="ULAN" refid="500078791" type="personal">Nijinsky, Waslaw</name>
+                <dates type="life">
+                    <earliestDate>1890</earliestDate>
+                    <latestDate>1950</latestDate>
+                </dates>
+                <culture>Russian</culture>
+                <role vocab="AAT" refid="300025653" extent="Faun (character)">dancer</role>
+            </agent>
+            <agent>
+                <name vocab="ULAN" refid="500090868" type="personal">Nijinska, Bronislava</name>
+                <dates type="life">
+                    <earliestDate>1891</earliestDate>
+                    <latestDate>1972</latestDate>
+                </dates>
+                <culture>Russian</culture>
+                <role vocab="AAT" refid="300025653" extent="Nymph (character)">dancer</role>
+            </agent>
+            <agent>
+                <name vocab="LCNAF" refid="n 81144517 " type="personal">Monteux, Pierre</name>
+                <dates type="life">
+                    <earliestDate>1875</earliestDate>
+                    <latestDate>1964</latestDate>
+                </dates>
+                <culture>French</culture>
+                <role>conductor</role>
+            </agent>
+            <agent>
+                <name vocab="other" refid="FRBNF14851822" type="personal">Nelidova, Dydia</name>
+                <dates type="activity">
+                    <earliestDate>1910</earliestDate>
+                    <latestDate>1913</latestDate>
+                </dates>
+                <culture>Russian</culture>
+                <role vocab="AAT" refid="300025653" extent="Grand Nymph (character)">dancer</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext>French</culturalContext>
+            <culturalContext>Russian</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>1912 (performance); Spring 1912-Spring 1913 (inclusive)</display>
+            <notes>premiered on 29 May 1912</notes>
+            <date type="performance">
+                <earliestDate>1912</earliestDate>
+                <latestDate>1912</latestDate>
+            </date>
+            <date type="inclusive">
+                <earliestDate>1912</earliestDate>
+                <latestDate>1913</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display>Jean Cocteau helped to explain the Mallarmé poem (Nijinsky spoke little French) and with developing a scenario for the ballet. The style of the ballet, in which a young faun meets several nymphs, flirts with them and chases them, was deliberately archaic. In the original scenography designed by Léon Bakst, the dancers were presented as part of a large tableau, a staging reminiscent of an ancient Greek vase painting. The music by Debussy already existed in a fully orchestrated form. The ballet has roles for seven dancers, the Faun and six Nymphs. Due to its hostile reception the ballet was only in the repertoire for a few years before being forgotten and assumed lost.</display>
+            <description source="Wikipedia; http://en.wikipedia.org/ (accessed 8/18/2013)">Jean Cocteau helped to explain the Mallarmé poem (Nijinsky spoke little French) and with developing a scenario for the ballet. The style of the ballet, in which a young faun meets several nymphs, flirts with them and chases them, was deliberately archaic. In the original scenography designed by Léon Bakst, the dancers were presented as part of a large tableau, a staging reminiscent of an ancient Greek vase painting. The music by Debussy already existed in a fully orchestrated form. The ballet has roles for seven dancers, the Faun and six Nymphs. Due to its hostile reception the ballet was only in the repertoire for a few years before being forgotten and assumed lost.</description>
+        </descriptionSet>
+        <locationSet>
+            <display>Théâtre du Châtelet (Paris, Île-de-France, France)</display>
+            <notes>Premiere performance; 2 rue Edouard Colonne, Place du Châtelet</notes>
+            <location type="performance">
+                <name type="geographic" vocab="other" refid="" extent="building">Théâtre du Châtelet</name>
+                <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>
+                <name type="geographic" vocab="TGN" refid="7002883" extent="region">Île-de-France</name>
+                <name type="geographic" vocab="TGN" refid="1000070" extent="nation">France</name>
+                <name type="geographic" vocab="TGN" refid="1000003" extent="continent">Europe</name>
+            </location>
+        </locationSet>
+        <measurementsSet>
+            <display>12 min (running time)</display>
+            <notes/>
+            <measurements type="runningTime" unit="min">12</measurements>
+        </measurementsSet>
+        <sourceSet>
+            <display>Core 4 Sample Database (VCat)</display>
+            <source>
+                <name>Core 4 Sample Database (VCat)</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <display>Symbolist; Twentieth century</display>
+            <stylePeriod vocab="LCSAF" refid="sh 85139020">Twentieth century</stylePeriod>
+            <stylePeriod vocab="AAT" refid="300021514">Symbolist</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <display>allegorical; mythology (Classical); Debussy, Claude, 1862-1918. Pre´lude a` l’apre`s-midi d’un faune; Mallarme´, Ste´phane, 1842-1898. Apre`s-midi d’un faune</display>
+            <notes/>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSAF" refid="n 84046737">Debussy, Claude, 1862-1918. Pre´lude a` l’apre`s-midi d’un faune</term>
+            </subject>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSAF" refid="no 89019415">Mallarme´, Ste´phane, 1842-1898. Apre`s-midi d’un faune</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display>choreography</display>
+            <notes/>
+            <technique vocab="AAT" refid="300255715">choreography</technique>
+        </techniqueSet>
+        <titleSet>
+            <display>Afternoon of a Faun [Nijinsky ballet]</display>
+            <title type="descriptive" pref="true" xml:lang="en">Afternoon of a Faun [Nijinsky ballet]</title>
+            <title type="cited" pref="false" xml:lang="fr">L'après-midi d'un faune</title>
+            <title type="translated" pref="false" xml:lang="en">The Afternoon of a Faun</title>
+        </titleSet>
+        <worktypeSet>
+            <display>performing arts; dance; ballet</display>
+            <worktype vocab="LCSAF" refid="sh 85011275">ballet</worktype>
+        </worktypeSet>
+    </work>
+    <work id="w_37" source="Core 4 Sample Database (VCat)" refid="37">
+        <agentSet>
+            <display>Dydia Nelidova (Russian dancer, active ca. 1910-1913); Paul Charles Delaroche (French artist, 1886-1914)</display>
+            <notes/>
+            <agent>
+                <name vocab="ULAN" refid="500103904" type="personal">Delaroche, Paul Charles</name>
+                <dates type="life">
+                    <earliestDate>1886</earliestDate>
+                    <latestDate>1914</latestDate>
+                </dates>
+                <culture>French</culture>
+                <role>artist</role>
+            </agent>
+            <agent>
+                <name vocab="other" refid="FRBNF14851822" type="personal">Nelidova, Dydia</name>
+                <dates type="activity">
+                    <earliestDate>1910</earliestDate>
+                    <latestDate>1913</latestDate>
+                </dates>
+                <culture>Russian</culture>
+                <role>dancer</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext>French</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>1912 (creation)</display>
+            <date type="creation">
+                <earliestDate>1912</earliestDate>
+                <latestDate>1912</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display>The dancer Dydia Nelidova, who danced the part of the Grande Nymphe in the Afternoon of a Faun (the principal female role in the Nijinsky ballet), is shown dressed in the costume designed by Leon Bakst. Delaroche's sketch captures some of the attempt of the dance to present two-dimensionality and stylized postures to evoke Greek vase painting.</display>
+            <description source="Wikipedia; http://en.wikipedia.org/ (accessed 8/18/2013)">The dancer Dydia Nelidova, who danced the part of the Grande Nymphe in the Afternoon of a Faun (the principal female role in the Nijinsky ballet), is shown dressed in the costume designed by Leon Bakst. Delaroche's sketch captures some of the attempt of the dance to present two-dimensionality and stylized postures to evoke Greek vase painting.</description>
+        </descriptionSet>
+        <locationSet>
+            <display>Bibliotheque Nationale (Paris, Île-de-France, France) 4-O ICO-3 (247)</display>
+            <notes>Collection Department: Richelieu (Arts du spectacle; magasin)</notes>
+            <location type="repository">
+                <name type="geographic" vocab="ULAN" refid="500309981" extent="organization">Bibliotheque Nationale</name>
+                <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>
+                <name type="geographic" vocab="TGN" refid="7002883" extent="region">Île-de-France</name>
+                <name type="geographic" vocab="TGN" refid="1000070" extent="nation">France</name>
+                <name type="geographic" vocab="TGN" refid="1000003" extent="continent">Europe</name>
+                <refid type="accession">4-O ICO-3 (247)</refid>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>black crayon on paper</display>
+            <notes/>
+            <material/>
+        </materialSet>
+        <measurementsSet>
+            <display>31 x 20 cm (width)</display>
+            <notes/>
+            <measurements type="height" unit="cm">31</measurements>
+            <measurements type="width" unit="cm">20</measurements>
+        </measurementsSet>
+        <relationSet>
+            <display/>
+            <relation type="relatedTo" refid="37" relids="w_36" source="Core 4 Sample Database (VCat)">Afternoon of a Faun [Nijinsky ballet]</relation>
+        </relationSet>
+        <sourceSet>
+            <display>Core 4 Sample Database (VCat)</display>
+            <source>
+                <name>Core 4 Sample Database (VCat)</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <display>Twentieth century</display>
+            <stylePeriod vocab="LCSAF" refid="sh 85139020">Twentieth century</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <display>mythology (Classical)</display>
+            <notes/>
+            <subject>
+                <term/>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display>drawing (image-making)</display>
+            <notes/>
+            <technique vocab="AAT" refid="300054196">drawing (image-making)</technique>
+        </techniqueSet>
+        <titleSet>
+            <display>Dydia Nelidova as the Grande Nymph in the Afternoon of a Faun</display>
+            <title type="translated" pref="true" xml:lang="en">Dydia Nelidova as the Grande Nymph in the Afternoon of a Faun</title>
+            <title type="cited" pref="false" xml:lang="fr">Dydia Nelidova (grande nymphe) dans Prélude à l'après-midi d'un faune</title>
+        </titleSet>
+        <worktypeSet>
+            <display>drawings (visual works)</display>
+            <worktype vocab="AAT" refid="300033973">drawing (visual work)</worktype>
+        </worktypeSet>
+    </work>
+    <image id="i_140"
+        href="http://www.core.vraweb.org/examples/html/example045_full.html"
+        refid="140" source="VRA Core Oversight Committee, ">
+        <dateSet>
+            <display>06/09/2010 (creation)</display>
+            <notes/>
+            <date/>
+        </dateSet>
+        <measurementsSet>
+            <display>18 MB</display>
+            <notes/>
+            <measurements/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageOf" refid="37" source="Core 4 Sample Database (VCat)"/>
+        </relationSet>
+        <rightsSet>
+            <display>publicDomain</display>
+            <rights/>
+        </rightsSet>
+        <sourceSet>
+            <display>Bibliothèque nationale de France [online catalog]; http://catalogue.bnf.fr/</display>
+            <source>
+                <name/>
+                <refid type="URI">http://catalogue.bnf.fr/</refid>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display>Overall view of drawing on page with repository stamp</display>
+            <title type="generalView">Overall view of drawing on page with repository stamp</title>
+        </titleSet>
+        <worktypeSet>
+            <display>digital image</display>
+            <notes/>
+            <worktype/>
+        </worktypeSet>
+    </image>
+</vra>

@@ -1,0 +1,143 @@
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version18/mets.xsd">
+  <metsHdr CREATEDATE="2015-04-01T13:26:40"/>
+  <amdSec ID="amdSec_1">
+    <techMD ID="techMD_1">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object xmlns="info:lc/xmlns/premis-v2" version="2.2" xsi:type="file" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd">
+            <objectIdentifier>
+              <objectIdentifierType>UUID</objectIdentifierType>
+              <objectIdentifierValue>1e5271be-699a-4bf8-9579-733705c09043</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <compositionLevel>1</compositionLevel>
+              <fixity>
+                <messageDigestAlgorithm>sha256</messageDigestAlgorithm>
+                <messageDigest>d896c1634046b35247a14df67089681b33f5e9bb8ba41f48dbd4d0b4319cc7f5</messageDigest>
+              </fixity>
+              <size>14119338</size>
+              <format>
+                <formatDesignation>
+                  <formatName>7Zip format</formatName>
+                  <formatVersion/>
+                </formatDesignation>
+                <formatRegistry>
+                  <formatRegistryName>PRONOM</formatRegistryName>
+                  <formatRegistryKey>fmt/484</formatRegistryKey>
+                </formatRegistry>
+              </format>
+              <creatingApplication>
+                <creatingApplicationName>7-Zip</creatingApplicationName>
+                <creatingApplicationVersion>9.20</creatingApplicationVersion>
+                <dateCreatedByApplication>2015-04-01T13:26:40</dateCreatedByApplication>
+              </creatingApplication>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+    <digiprovMD ID="digiprovMD_1">
+      <mdWrap MDTYPE="PREMIS:EVENT">
+        <xmlData>
+          <premis:event xmlns:premis="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" version="2.2">
+            <premis:eventIdentifier>
+              <premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+              <premis:eventIdentifierValue>1e8f5d8c-841a-48b1-b391-b31863f77b1d</premis:eventIdentifierValue>
+            </premis:eventIdentifier>
+            <premis:eventType>compression</premis:eventType>
+            <premis:eventDateTime>2015-04-01T19:26:35</premis:eventDateTime>
+            <premis:eventDetail>program=7z; version=p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,1 CPU)
+</premis:eventDetail>
+            <premis:eventOutcomeInformation>
+              <premis:eventOutcome/>
+              <premis:eventOutcomeDetail>
+                <premis:eventOutcomeDetailNote>Standard Output="
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,1 CPU)
+Scanning
+
+Creating archive /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/compressionAIPDecisions/u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/u171_test_2-1e5271be-699a-4bf8-9579-733705c09043.7z
+
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/METS.1e5271be-699a-4bf8-9579-733705c09043.xml
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/submissionDocumentation/transfer-u171_test_2-5bf70733-bcb6-4050-a99a-cae9e2a85b41/METS.xml
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/About.txt
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/bag-info.txt
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/bagit.txt
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/manifest-sha512.txt
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/tagmanifest-md5.txt
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/6th_Greg_Campbell_May_1__2012/CAMPBELL_FLYER.docx
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/8th_Ari_Kelman_May_5__2014/Ari_Kelman_authorlecture.pdf
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/4th_Greg_Campbell_April_20__2010/campbellflyer.pdf
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/2nd_Carl_Zimmer_April_15__2008/Carl_Zimmer_b_SKMBT_423_j14092408050.pdf
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/2nd_Carl_Zimmer_April_15__2008/Carl_Zimmer_Flyer.pdf
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/3rd_Margaret_Coel_April_30__2009/Coelflyer.pdf
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/7th_Gary_Younge_April_23__2013/Gary_Younge_4.23.13.pdf
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/logs/arrange.log
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/logs/transfers/u171_test_2-5bf70733-bcb6-4050-a99a-cae9e2a85b41/logs/fileFormatIdentification.log
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/logs/fileFormatIdentification.log
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/logs/transfers/u171_test_2-5bf70733-bcb6-4050-a99a-cae9e2a85b41/logs/filenameCleanup.log
+Compressing  u171_test_2-1e5271be-699a-4bf8-9579-733705c09043/data/objects/6th_Greg_Campbell_May_1__2012/Pot_Inc_flyer.pptx
+
+Everything is Ok
+"; Standard Error=""</premis:eventOutcomeDetailNote>
+              </premis:eventOutcomeDetail>
+            </premis:eventOutcomeInformation>
+            <premis:linkingAgentIdentifier>
+              <premis:linkingAgentIdentifierType>Archivematica user pk</premis:linkingAgentIdentifierType>
+              <premis:linkingAgentIdentifierValue>1</premis:linkingAgentIdentifierValue>
+            </premis:linkingAgentIdentifier>
+            <premis:linkingAgentIdentifier>
+              <premis:linkingAgentIdentifierType>preservation system</premis:linkingAgentIdentifierType>
+              <premis:linkingAgentIdentifierValue>Archivematica-1.3.2</premis:linkingAgentIdentifierValue>
+            </premis:linkingAgentIdentifier>
+            <premis:linkingAgentIdentifier>
+              <premis:linkingAgentIdentifierType>repository code</premis:linkingAgentIdentifierType>
+              <premis:linkingAgentIdentifierValue>CoDU</premis:linkingAgentIdentifierValue>
+            </premis:linkingAgentIdentifier>
+          </premis:event>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digiprovMD_2">
+      <mdWrap MDTYPE="PREMIS:AGENT">
+        <xmlData>
+          <premis:agent xmlns:premis="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" version="2.2">
+            <premis:agentIdentifier>
+              <premis:agentIdentifierType>preservation system</premis:agentIdentifierType>
+              <premis:agentIdentifierValue>Archivematica-1.3.2</premis:agentIdentifierValue>
+            </premis:agentIdentifier>
+            <premis:agentName>Archivematica</premis:agentName>
+            <premis:agentType>software</premis:agentType>
+          </premis:agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digiprovMD_3">
+      <mdWrap MDTYPE="PREMIS:AGENT">
+        <xmlData>
+          <premis:agent xmlns:premis="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" version="2.2">
+            <premis:agentIdentifier>
+              <premis:agentIdentifierType>repository code</premis:agentIdentifierType>
+              <premis:agentIdentifierValue>CoDU</premis:agentIdentifierValue>
+            </premis:agentIdentifier>
+            <premis:agentName>University of Denver Libraries</premis:agentName>
+            <premis:agentType>organization</premis:agentType>
+          </premis:agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Archival Information Package">
+      <file ID="u171_test_2-1e5271be-699a-4bf8-9579-733705c09043">
+        <FLocat OTHERLOCTYPE="SYSTEM" LOCTYPE="OTHER" xlink:href="/var/archivematica/sharedDirectory/www/AIPsStore/1e52/71be/699a/4bf8/9579/7337/05c0/9043/u171_test_2-1e5271be-699a-4bf8-9579-733705c09043.7z"/>
+        <transformFile TRANSFORMALGORITHM="bzip2" TRANSFORMORDER="1" TRANSFORMTYPE="decompression"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div ADMID="amdSec_1" TYPE="Archival Information Package">
+      <fptr FILEID="u171_test_2-1e5271be-699a-4bf8-9579-733705c09043"/>
+    </div>
+  </structMap>
+</mets>

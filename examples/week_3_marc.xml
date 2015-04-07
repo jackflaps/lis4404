@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00000npc a2200000 u 4500</leader>
+  <controlfield tag="008">150203i        xx                  eng d</controlfield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">CoDU</subfield>
+    <subfield code="b">University of Denver Libraries, Special Collections and Archives</subfield>
+    <subfield code="c">D022</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoDU</subfield>
+    <subfield code="c">CoDU</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Lillian Covillo Papers</subfield>
+    <subfield code="f">1936-2010</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Covillo, Lillian</subfield>
+    <subfield code="d">1921-</subfield>
+    <subfield code="e">creator</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 Linear Feet ((1 letter document box, 2 flat bes))</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2="9">
+    <subfield code="a">MS</subfield>
+    <subfield code="a">D022</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">There is no accession record for these materials.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">other</subfield>
+    <subfield code="b">xxx</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">unmediated</subfield>
+    <subfield code="b">bn</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">other</subfield>
+    <subfield code="b">xxx</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">*recs=b,b3=z,ov=.b46973060</subfield>
+  </datafield>
+</record>
+</collection>

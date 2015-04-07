@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-CoDU"/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Lillian Covillo Papers<num>D022</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>University of Denver Libraries, Special Collections and Archives</publisher>
+        <address>
+          <addressline>2150 East Evans Avenue</addressline>
+          <addressline>Denver, CO 80204</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2015-02-09 17:15:16 -0700</date>.</creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>University of Denver Libraries, Special Collections and Archives</corpname>
+      </repository>
+      <unittitle>Lillian Covillo Papers</unittitle>
+      <origination label="creator">
+        <persname rules="local" source="local">Covillo, Lillian, 1921-</persname>
+      </origination>
+      <unitid>D022</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">(1 letter document box, 2 flat bes)</extent>
+      </physdesc>
+      <unitdate type="inclusive">1936-2010</unitdate>
+    </did>
+    <odd id="aspace_9debae1ece41ed31669309775f925a84">
+      <head>General</head>
+      <p>There is no accession record for these materials.</p>
+    </odd>
+    <controlaccess>
+      <persname rules="local" source="local">Covillo, Lillian, 1921-</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_297896a64d9ae3a52267e5c9bd8c92bb" level="series">
+        <did>
+          <unittitle>Work with Denver Grand Opera</unittitle>
+          <unitid>D022.01</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">5 Items</extent>
+            <extent altrender="carrier">(5 file folders)</extent>
+            <physfacet>file folder</physfacet>
+          </physdesc>
+          <unitdate type="inclusive">1936-1945</unitdate>
+        </did>
+        <arrangement id="aspace_5cce5105890336a42d11bfad0f42f00c">
+          <head>Arrangement</head>
+          <p>Series 1 is arranged chronologically.</p>
+        </arrangement>
+        <scopecontent id="aspace_3b20aceac58a36ecdae6833d24af25a8">
+          <head>Scope and Contents</head>
+          <p>Series 1 of 8 is a compilation of materials that cover Lillian Covillo's early work with the Denver Grand Opera Company.</p>
+        </scopecontent>
+        <controlaccess>
+          <subject source="lcsh">Dance</subject>
+          <subject source="lcsh">Ballet</subject>
+          <geogname source="lcsh">Colorado</geogname>
+          <occupation source="lcsh">Dancers</occupation>
+          <occupation source="lcsh">Ballerinas</occupation>
+          <occupation source="lcsh">Ballet dancers</occupation>
+          <persname rules="local" source="local">Covillo, Lillian, 1921-</persname>
+          <persname rules="local" source="local">Covillo, Lillian, 1921-</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="aspace_74d74682637b8f561bd844c3e5fc20e0" level="series">
+        <did>
+          <unittitle>Lillian’s Own Dance Work</unittitle>
+          <unitid>D022.02</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">6 Items</extent>
+            <extent altrender="carrier">(6 file folders)</extent>
+            <physfacet>file folder</physfacet>
+          </physdesc>
+          <unitdate type="inclusive">1940-1955</unitdate>
+        </did>
+        <arrangement id="aspace_3f5c1f7456e08efee16c71fd4f201fdd">
+          <head>Arrangement</head>
+          <p>Series 2 is arranged chronologically. __Lillian Covillo's work with the Martha Wilcox Dance Group is separated from her dance studios work. Oversized items are in oversized photo box</p>
+        </arrangement>
+        <separatedmaterial id="aspace_a800edefc80c8d3baf1401e686f45380">
+          <head>Separated Materials</head>
+          <p>Lillian Covillo's work with the Martha Wilcox Dance Group is separated from her dance studios work. Oversized items are in oversized photo box</p>
+        </separatedmaterial>
+        <scopecontent id="aspace_55a125fbe586f2330ff2c8d877aab961">
+          <head>Scope and Contents</head>
+          <p>Series 2 of 8 documents Lillian Covillo's work as dancer, teacher, and studio owner before the Colorado Ballet. It includes photos and programs.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname rules="local" source="local">Covillo, Lillian, 1921-</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="aspace_6ba8260bad583430e44b4ba21925052c" level="series">
+        <did>
+          <unittitle>Freidann Parker</unittitle>
+          <unitid>D022.03</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">6 Items</extent>
+            <physfacet>file folder</physfacet>
+          </physdesc>
+          <unitdate type="inclusive">circa 1940-circa 1950</unitdate>
+        </did>
+        <arrangement id="aspace_1bc091220afbf334355cce6a2a3a731c">
+          <head>Arrangement</head>
+          <p>Series 3 is arranged as close to chronologically as possible. __Oversized items are in oversized photo box</p>
+        </arrangement>
+        <separatedmaterial id="aspace_02d6e731cc8db8fa49a948c3eff731ff">
+          <head>Separated Materials</head>
+          <p>Oversized items are in oversized photo box</p>
+        </separatedmaterial>
+        <scopecontent id="aspace_cee5419597595d0ac081bc0abda52c36">
+          <head>Scope and Contents</head>
+          <p>Series 3 of 8 covers material related to Freidann Parker outside of her work with Lillian Covillo. It includes photos and one program.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_e13897421243439e85880eec86c429be" level="series">
+        <did>
+          <unittitle>Students' Dancing</unittitle>
+          <unitid>D022.04</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Items</extent>
+            <physfacet>file folder</physfacet>
+          </physdesc>
+          <unitdate type="inclusive">circa 1944</unitdate>
+        </did>
+        <arrangement id="aspace_d6d9e050604796fded1cf78ace622e63">
+          <head>Arrangement</head>
+          <p>Series 4 items are arranged by performance and student as best as possible __Oversized items are in oversized photo box.</p>
+        </arrangement>
+        <separatedmaterial id="aspace_9814f4203d8f2161b5ec87f9c7e177ce">
+          <head>Separated Materials</head>
+          <p>Oversized items are in oversized photo box.</p>
+        </separatedmaterial>
+        <scopecontent id="aspace_5f87c21492d4115ab0890bd2afb595b3">
+          <head>Scope and Contents</head>
+          <p>Series 4 of 8 covers photos of students from Lillian Covillo's various schools of dance.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_2df95fc96ad77f0af71a8938691c388f" level="series">
+        <did>
+          <unittitle>Ephemera</unittitle>
+          <unitid>D022.05</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Items</extent>
+            <physfacet>file folder</physfacet>
+          </physdesc>
+          <unitdate type="inclusive">circa 1940-2010</unitdate>
+        </did>
+        <arrangement id="aspace_f90cb3031602d82d9e4a9b7db89e22fd">
+          <head>Arrangement</head>
+          <p>Series 5 is arranged chronologically __Oversized items are in oversized photo box</p>
+        </arrangement>
+        <separatedmaterial id="aspace_5eeef5e3559fe02e9eb39485acbb8108">
+          <head>Separated Materials</head>
+          <p>Oversized items are in oversized photo box</p>
+        </separatedmaterial>
+        <scopecontent id="aspace_b22903ef5b605a7cb6fbd0dc033a3bcd">
+          <head>Scope and Contents</head>
+          <p>Series 5 of 8 covers programs, pamphlets, and clippings that relate to Lillian Covillo as a child, a much older adult, and a ballet enthusiast around the world. It includes her funeral program and programs from other ballet companies she may have enjoyed.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_4ac993d90eac462f94969f78f48f5b49" level="series">
+        <did>
+          <unittitle>Newspaper Clippings</unittitle>
+          <unitid>D022.06</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">7 Items</extent>
+            <physfacet>file folder</physfacet>
+          </physdesc>
+          <unitdate type="inclusive">circa 1940-circa 1975</unitdate>
+        </did>
+        <arrangement id="aspace_1478e7a78c8a57630dce441058f119cf">
+          <head>Arrangement</head>
+          <p>Series 6 items, for the most part, lack dates so like items are grouped in folders and folders are arranged arbitrarily.</p>
+        </arrangement>
+        <scopecontent id="aspace_88ac886507307e38f6d030e2b68b4a7b">
+          <head>Scope and Contents</head>
+          <p>Series 6 of 8 contains newspaper clippings about the Lillian Covillo's personal life, her dance work, her student's lives, and those of her friends.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_2cff2914e94b909768fb42485c16560c" level="series">
+        <did>
+          <unittitle>Colorado Concert Ballet and Colorado Ballet</unittitle>
+          <unitid>D022.07</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Items</extent>
+            <extent altrender="carrier">This series contains one file folder and one spiral bound scrapbook. It shares a flat box with Series 8 items</extent>
+            <physfacet>flat box (15 x 19 x 3 inches)</physfacet>
+          </physdesc>
+          <unitdate type="inclusive">circa 1968-circa 2000</unitdate>
+        </did>
+        <arrangement id="aspace_0093c0fbfcddc9e4e7285e7d8d55161e">
+          <head>Arrangement</head>
+          <p>Series 7 items were organized in scrapbook before they became part of the collection. All other items are in a second folder</p>
+        </arrangement>
+        <scopecontent id="aspace_c4d88e43f67fe7129f2052483ab90882">
+          <head>Scope and Contents</head>
+          <p>Series 7 of 8 contains a late 60's scrapbook of company rehearsal and performance and newspaper clippings related to the company.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_43bffc495af33feebb00e97ad747a9de" level="series">
+        <did>
+          <unittitle>Scrapbook</unittitle>
+          <unitid>D022.08</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Items</extent>
+            <extent altrender="carrier">This is one scrpbook that shares a flat box with Series 7 items</extent>
+            <physfacet>flat box (15 x 19 x 3 inches)</physfacet>
+          </physdesc>
+          <unitdate type="inclusive">1936-1944</unitdate>
+        </did>
+        <arrangement id="aspace_d7a8519232b176fb6856a46d7f444584">
+          <head>Arrangement</head>
+          <p>Series 8 was arranged before it became part of the collection but is mostly chonological.</p>
+        </arrangement>
+        <scopecontent id="aspace_774ad3e40d00e156da3e221b3a2f435c">
+          <head>Scope and Contents</head>
+          <p>Series 8 of 8 is a scrapbook compiled by Lillian Covillo's mother, Mrs. John Covillo. It covers Lillian Covillo's early dance work with photos, programs, notes, and newspaper clippings.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_0775e986e565feac92c28bf598ea3294" level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+          <unitid>D022.0001</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Items</extent>
+            <physfacet>letter document box</physfacet>
+          </physdesc>
+          <container id="aspace_f00a493b20b5e2ce111c4ec3318b4810" label="Mixed Materials" type="box">D022.0001</container>
+        </did>
+      </c01>
+      <c01 id="aspace_161f1d181a098dedfc4dc3106058f314" level="file">
+        <did>
+          <unittitle>Box 2</unittitle>
+          <unitid>D022.0002</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Items</extent>
+            <physfacet>flat box (13 x 10 x 3 inches)</physfacet>
+          </physdesc>
+          <container id="aspace_caa1a8599b049eb9c5ad055385db5683" label="Mixed Materials" type="box">D022.0002</container>
+        </did>
+      </c01>
+      <c01 id="aspace_74be73813f88c18c03ad76023ccacbaf" level="file">
+        <did>
+          <unittitle>Box 3</unittitle>
+          <unitid>D022.0003</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Items</extent>
+            <physfacet>flat box (13 x 10 x 3 inches)</physfacet>
+          </physdesc>
+          <abstract id="aspace_d6034758cff89686ed4e609adaebb64a">Contains souvenir and house programs, newspaper clippings, and photographs of Lillian Covillo's activities in the Denver ballet community prior to the founding of Colorado Ballet. This includes: Covillo-Parker School of Dance, Lillian Covillo Balllet Company, Covillo-Parker Theatre Ballet Company and related companies and performances. A scrapbook with snapshots of a Colorado Concert Ballet performance of ''Romeo and Juliet,'' choreographed by Freidann Parker, and the classes and studios at the East Colfax and Fairax studio is also included.</abstract>
+          <container id="aspace_8aecaef25c46b8cdd74d0991b4551076" label="Mixed Materials" type="box">D022.0003</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

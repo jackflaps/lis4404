@@ -1,0 +1,139 @@
+
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mods:titleInfo>
+    <mods:title>Kochbuch : selbsterprobter Rezepte / herausgegeben vom Columbia Damen-Club ; zum Maifest im Bismarck-Garten, Den 22. bis 31 Mai 1915</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title></mods:title>
+    <mods:title>Koch Buch</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title></mods:title>
+    <mods:title>Ye literary cook book</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart></mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart></mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="corporate">
+    <mods:namePart></mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="corporate">
+    <mods:namePart>Columbia Damen-Club (Chicago, Ill.)</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:originInfo>
+    <mods:place>
+      <mods:placeTerm type="text">[Chicago]</mods:placeTerm>
+    </mods:place>
+    <mods:publisher>Columbia Printing Co.</mods:publisher>
+    <mods:dateIssued></mods:dateIssued>
+    <mods:dateCreated keyDate="yes">[1915]</mods:dateCreated>
+    <mods:copyrightDate></mods:copyrightDate>
+    <mods:dateOther></mods:dateOther>
+    <mods:dateCaptured></mods:dateCaptured>
+    <mods:frequency></mods:frequency>
+  </mods:originInfo>
+  <mods:genre authority="marcgt">book</mods:genre>
+  <mods:language>
+    <mods:languageTerm type="text">German and English</mods:languageTerm>
+  </mods:language>
+  <mods:physicalDescription>
+    <mods:extent>54 pages</mods:extent>
+    <mods:form>electronic</mods:form>
+    <mods:digitalOrigin>digitized other analog</mods:digitalOrigin>
+    <mods:note></mods:note>
+  </mods:physicalDescription>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:scale></mods:scale>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates></mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:abstract></mods:abstract>
+  <mods:targetAudience></mods:targetAudience>
+  <mods:note></mods:note>
+  <mods:note type="admin"></mods:note>
+  <mods:note type="funding"></mods:note>
+  <mods:subject>
+    <mods:topic>Cooking</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Cooking, German</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:geographic></mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:temporal></mods:temporal>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="personal">
+      <mods:namePart></mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="corporate">
+      <mods:namePart></mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:genre>Cookbooks</mods:genre>
+  </mods:subject>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Husted Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="constituent">
+    <mods:titleInfo>
+      <mods:title></mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title></mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="preceding">
+    <mods:titleInfo>
+      <mods:title></mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="succeeding">
+    <mods:titleInfo>
+      <mods:title></mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:identifier type="local"></mods:identifier>
+  <mods:identifier type="isbn"></mods:identifier>
+  <mods:identifier type="issn"></mods:identifier>
+  <mods:accessCondition type="useAndReproduction">Copyright is held by the creator.</mods:accessCondition>
+  <mods:recordInfo>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
+  <mods:location>
+    <mods:url usage="primary display">http://hdl.handle.net/10176/codu:66783</mods:url>
+  </mods:location>
+</mods:mods>
