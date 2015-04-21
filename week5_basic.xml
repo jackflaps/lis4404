@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<record>
+		<title>Cadillac Desert</title>
+		<author>Reisner, Marc</author>
+		<originInfo>
+			<placeOfPublication>New York</placeOfPublication>
+			<publisher>Viking</publisher>
+			<dateOfPublication>1986</dateOfPublication>
+		</originInfo>
+		<description lang="en">This history of water rights in the American West focuses on the political corruption and intrigue, including the rivalry between the Bureau of Reclamation and the U.S. Army Corps of Engineers.</description>
+		<description lang="es">Esta historia de los derechos de agua en el oeste de Estados Unidos se centra en la corrupción y la intriga política, incluyendo la rivalidad entre el Bureau of Reclamation y los EE.UU. Cuerpo de Ingenieros del Ejército.</description>
+	</record>
+
+	<record>
+		<title>Harry Potter and the Prisoner of Azkaban</title>
+		<author>Rowling, J.K.</author>
+		<originInfo>
+			<placeOfPublication>London</placeOfPublication>
+			<publisher>Bloomsbury</publisher>
+			<dateOfPublication>1999</dateOfPublication>
+		</originInfo>
+		<description lang="en">When Harry and his best friends go back for their third year at Hogwarts, the atmosphere is tense. There's an escaped mass-murderer on the loose and the sinister prison guards of Azkaban have been called in to guard the school.</description>
+		<description lang="es">Cuando Harry y sus mejores amigos regresan para su tercer año en Hogwarts, el ambiente es tenso. Hay un asesino en masa escapado en el flojo y los guardias de la prisión de Azkaban siniestros han sido llamados a custodiar la escuela.</description>
+	</record>
+
+</library>
