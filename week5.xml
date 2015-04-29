@@ -19,9 +19,11 @@
       <title>National Jewish Hospital Records</title>
       <corporateNames>National Jewish Hospital for Consumptives (U.S.)--History. --National Jewish Hospital (U.S.)--History. --National Jewish Hospital and Research Center (U.S.)--History. --National Jewish Hospital/National Asthma Center (U.S.)--History. --National Jewish Center for Immunology and Respiratory Medicine (U.S.)--History. --National Jewish Medical and Research Center (U.S.)--History. --National Jewish Health (U.S.)--History.</corporateNames>
       <creator>National Jewish Medical and Research Center (U.S.)</creator>
-      <Extent>[Extent]203 __[Unit]linear feet __[Note](350 boxes and oversized materials)</Extent>
-      <Extent_Note>[Note](350 boxes and oversized materials)</Extent_Note>
-      <Extent_Unit>[Unit]linear feet</Extent_Unit>
+      <extent>
+            <amount>203</amount>
+            <unit>linear feet</unit>
+            <note>(350 boxes and oversized materials)</note>
+      </extent>
       <geographicTerm>Denver (Colo.)</geographicTerm>
       <inclusiveDates>1899-2009</inclusiveDates>
       <language>The materials are in English</language>
